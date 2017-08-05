@@ -16,12 +16,11 @@ hr {
     width: 670px;
     margin: 0 auto;
     padding-top: 15px;
-    font-size: 30px;
     background: #ccc;
     height: 500px;
     font-family: "Lucida Console", Monaco, monospace;
     text-align: left;
-    font-size: 13px;
+    font-size: 15px;
     color: #fafafa;
 }
 #console {
