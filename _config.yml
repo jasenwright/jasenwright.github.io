@@ -17,8 +17,8 @@ title: jasenwright
 email: jasen.g.wright@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog built using Jekyll and GitHub Pages.
-baseurl: /blog # the subpath of your site, e.g. /blog
-url: jasenwright.me # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jasenfyfe
 github_username:  jasenwright
 
