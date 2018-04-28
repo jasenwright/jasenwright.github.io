@@ -1,0 +1,47 @@
+body {
+  margin: 25px auto;
+}
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  max-width: 550px;
+}
+#name h1 {
+  font-family: 'Raleway', sans-serif;
+}
+#code {
+    margin-top: 150px;
+    border-radius: 5px;
+    width: 670px;
+    margin: 0 auto;
+    padding-top: 15px;
+    background: #ccc;
+    height: 525px;
+    font-family: "Lucida Console", Monaco, monospace;
+    text-align: left;
+    font-size: 15px;
+    color: #fafafa;
+}
+#console {
+    width: 670px;
+    padding: 40px;
+    height: 525px;
+    margin: 0 auto;
+    background: #383737;
+}
+span.answer {
+    color: #ccc;
+}
+@media screen and (min-device-width: 280px) and (max-device-width: 650px) {
+
+  #code, #console {
+      width: 100%;
+
+      height: auto;
+  }
+
+  #code {
+      margin-bottom: 20px;
+  }
+}
